@@ -10,30 +10,7 @@
 
 Este projeto entrega uma solução **end-to-end** de **engenharia de dados** e **desenvolvimento web** para coletar, tratar e analisar dados públicos da **ANS**. Foi pensado para ser **simples de executar**, **eficiente** no processamento e **claro** para avaliação técnica.
 
-> ⚠️ **Nota:** Versão adaptada para **portfólio**. Algumas funcionalidades dependem de configuração de ambiente e acesso aos dados públicos da ANS.
 
----
-
-## 📁 Estrutura do Projeto
-
-```
-.
-├─ etl/
-│  ├─ teste1.py            # Extração (Scraping ANS), Normalização e Carga
-│  └─ teste2.py            # Transformação, Validação, Enriquecimento e Agregação
-├─ database/
-│  ├─ setup_mysql.py       # Criação do banco e tabelas
-│  ├─ database.py          # Configuração de conexão
-│  └─ teste3.sql           # DDL + Queries Analíticas
-├─ web/
-│  ├─ app.py               # API RESTful (FastAPI)
-│  └─ index.html           # SPA (Vue.js 3)
-├─ docs/
-│  └─ postman_collection.json
-└─ README.md
-```
-
----
 
 ## 🚀 Como Executar
 
