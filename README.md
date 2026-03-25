@@ -92,4 +92,4 @@ python app.py
 
 ## 📝 Relato Pessoal
 
-O projeto aplica **boas práticas** de engenharia de software e análise de dados, equilibrando **performance** e **facilidade de execução**. A integração entre **Python** (processamento) e **Vue.js** (visualização) demonstra capacidade **Full Stack orientada a dados
+O projeto aplica **boas práticas** de engenharia de software e análise de dados, equilibrando **performance** e **facilidade de execução**. A integração entre **Python** (processamento) e **Vue.js** (visualização) 
